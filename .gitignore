@@ -1,0 +1,3 @@
+# Project exclude paths
+/HTTP-client/target/
+/WEB-Server/target/
